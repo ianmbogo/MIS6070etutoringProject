@@ -1,0 +1,57 @@
+[11-Dec-2019 08:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/raiahos1/public_html/etutoring/php/process_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 14
+[11-Dec-2019 08:54:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/raiahos1/public_html/etutoring/php/process_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 14
+[11-Dec-2019 08:54:41 UTC] PHP Notice:  Undefined variable: password in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 13
+[11-Dec-2019 08:54:41 UTC] PHP Notice:  Undefined variable: mysqli in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 14
+[11-Dec-2019 08:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/raiahos1/public_html/etutoring/php/process_login.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 14
+[11-Dec-2019 08:56:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 16
+[11-Dec-2019 08:56:09 UTC] PHP Notice:  Trying to get property of non-object in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 18
+[11-Dec-2019 08:56:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:1) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 22
+[11-Dec-2019 08:58:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:1) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 22
+[11-Dec-2019 08:58:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:17) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 22
+[11-Dec-2019 08:58:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:17) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 19
+[11-Dec-2019 08:59:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:14) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 19
+[11-Dec-2019 09:00:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:14) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 18
+[11-Dec-2019 09:00:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:16) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 18
+[11-Dec-2019 09:00:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/db.php:14) in /home1/raiahos1/public_html/etutoring/php/process_login.php on line 18
+[11-Dec-2019 12:41:15 UTC] PHP Notice:  Undefined variable: mysqli_query in /home1/raiahos1/public_html/etutoring/php/process_register.php on line 28
+[11-Dec-2019 12:41:15 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/raiahos1/public_html/etutoring/php/process_register.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/raiahos1/public_html/etutoring/php/process_register.php on line 28
+[12-Dec-2019 04:00:40 UTC] PHP Notice:  Undefined index: students in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:00:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:00:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:9) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 23
+[12-Dec-2019 04:02:10 UTC] PHP Warning:  implode(): Invalid arguments passed in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:02:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:9) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 23
+[12-Dec-2019 04:34:37 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 20
+[12-Dec-2019 04:35:22 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:35:48 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:36:22 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:9) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 25
+[12-Dec-2019 04:37:57 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 9
+[12-Dec-2019 04:37:57 UTC] PHP Notice:  Array to string conversion in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 20
+[12-Dec-2019 04:37:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:9) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 25
+[12-Dec-2019 05:17:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 27
+[12-Dec-2019 05:17:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:27) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 34
+[12-Dec-2019 05:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home1/raiahos1/public_html/etutoring/php/process_allot.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 29
+[12-Dec-2019 05:20:31 UTC] PHP Notice:  Undefined variable: tude in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 29
+[12-Dec-2019 05:20:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 29
+[12-Dec-2019 05:20:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 29
+[12-Dec-2019 06:22:47 UTC] PHP Notice:  Undefined variable: stude_email in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 69
+[12-Dec-2019 06:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:69) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 72
+[12-Dec-2019 06:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:69) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 72
+[12-Dec-2019 06:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/process_allot.php:69) in /home1/raiahos1/public_html/etutoring/php/process_allot.php on line 72
+[13-Dec-2019 10:46:35 UTC] PHP Notice:  Undefined index: topic in /home1/raiahos1/public_html/etutoring/php/postBlog.php on line 9
+[13-Dec-2019 10:46:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raiahos1/public_html/etutoring/php/postBlog.php:9) in /home1/raiahos1/public_html/etutoring/php/postBlog.php on line 28
